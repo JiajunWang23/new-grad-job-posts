@@ -1,4 +1,4 @@
-# New Grad Job Posts 🚀
+-n # New Grad Job Posts 🚀
 
 Daily new grad tech job postings shared on LinkedIn by Eloise Wang.
 
@@ -14,3 +14,8 @@ Daily new grad tech job postings shared on LinkedIn by Eloise Wang.
 | 2026-04-30 | Snowflake | Software Engineer – Entry Level | Toronto, ON | [Apply](https://jobs.ashbyhq.com/snowflake/a104fbc0-d07c-4974-aeeb-49aa56948fe7/application) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455450662898900992) |
 | 2026-04-30 | SeatGeek | Software Engineer – New Grad | New York, NY | [Apply](https://seatgeek.com/jobs/7858968) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455472957965123584) |
 | 2026-04-30 | Handshake | Software Engineer 1 | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/handshake/2cfafa1a-d47d-4bc2-9c41-4c50bcba0245/application) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455473003058044928) |
+| 2026-04-30 | Anduril | Early Career Software Engineer | Newport Beach, CA | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?utm_source=Simplify&ref=Simplify) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455643555378921472) |
+| 2026-04-30 | Fortinet | Junior Software Developer | Santa Clara, CA | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22744?utm_source=Simplify&ref=Simplify) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455643785247608832) |
+| 2026-04-30 | Flexport | Software Engineer 1 | San Francisco, CA | [Apply](https://boards.greenhouse.io/flexport/jobs/7839298?utm_source=Simplify&ref=Simplify) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455643795599192064) |
+| 2026-04-30 | GE Healthcare | Software Engineer 1 | Orange, OH | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2?utm_source=Simplify&ref=Simplify) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455643806261215232) |
+| 2026-04-30 | Motorola Solutions | Junior Software Engineer | Uxbridge, UK | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369?utm_source=Simplify&ref=Simplify) | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7455643816839106560) |
