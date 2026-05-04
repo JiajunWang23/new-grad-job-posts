@@ -6,6 +6,11 @@ Daily new grad tech job postings shared on LinkedIn by Eloise Wang.
 
 | Date | Company | Role | Location | Apply | LinkedIn Post |
 |------|---------|------|----------|-------|---------------|
+| 2026-05-04 | StubHub | Software Engineer 1 | Los Angeles, CA | [Apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825412101) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457202805125165056) |
+| 2026-05-04 | Attentive | Software Engineer 1 - AI Product | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/attentive/jobs/4195625009) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457202832220307456) |
+| 2026-05-04 | Leidos | Junior Software Developer | Manassas, VA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Manassas-VA/Jr-Software-Developer_R-00176918) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457202856362840064) |
+| 2026-05-04 | Alarm.com | Software Engineer 1 | Lawrence, KS | [Apply](https://job-boards.greenhouse.io/alarmcom/jobs/8490045002) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457202882677911552) |
+| 2026-05-04 | Rokt | Junior Software Engineer | New York City, NY | [Apply](https://apply.workable.com/rokt/j/783A754DDB/apply) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457202905780015104) |
 | 2026-05-04 | NVIDIA | Deep Learning Software Engineer, FlashInfer – New College Grad 2026 | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2026_JR2017076) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457201718385176576) |
 | 2026-05-04 | Honeywell | Embedded Engineer I | Northford, CT (Hybrid) | [Apply](https://careers.honeywell.com/us/en/job/req460872/Embedded-Engineer-I) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457201752702988288) |
 | 2026-05-04 | Marvell | Accelerated Computing Solutions Analyst – Early Career | Santa Clara, CA | [Apply](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Accelerated-Computing-Solutions-Analyst---Early-Career_2601165-1) | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7457201787469467649) |
